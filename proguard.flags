@@ -87,3 +87,6 @@
 -keep class **.R$* {
     <fields>;
 }
+
+# Custom rules
+-keep class com.google.android.settings.** { *; }

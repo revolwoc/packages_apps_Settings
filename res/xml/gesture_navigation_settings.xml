@@ -59,13 +59,6 @@
         android:summary="@string/show_gestures_navbar_switch_summary"
         android:defaultValue="true" />
 
-    <Preference
-        android:key="gesture_nav_custom_options"
-        android:title="@string/navbar_gesture_tweaks_pref_title"
-        android:summary="@string/navbar_gesture_tweaks_pref_summary"
-        android:fragment="com.android.settings.gestures.GestureTweaksSettings"
-        settings:allowDividerAbove="false"/>
-
     <com.android.settings.widget.LabeledSeekBarPreference
         android:key="gesture_navbar_length"
         android:title="@string/navbar_length"
@@ -83,6 +76,19 @@
         android:selectable="true"
         settings:textStart="@string/small_label"
         settings:textEnd="@string/big_label"/>
+
+    <com.evolution.settings.preference.SystemSettingSwitchPreference
+        android:key="navigation_bar_ime_space"
+        android:title="@string/navigation_bar_ime_space_title"
+        android:summary="@string/navigation_bar_ime_space_summary"
+        android:defaultValue="true" />
+
+    <Preference
+        android:key="gesture_nav_custom_options"
+        android:title="@string/navbar_gesture_tweaks_pref_title"
+        android:summary="@string/navbar_gesture_tweaks_pref_summary"
+        android:fragment="com.android.settings.gestures.GestureTweaksSettings"
+        settings:allowDividerAbove="false"/>
 
     <com.evolution.settings.preference.SystemSettingSwitchPreference
         android:key="back_gesture_haptic"

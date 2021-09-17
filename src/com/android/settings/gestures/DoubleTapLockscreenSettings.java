@@ -50,7 +50,7 @@ public class DoubleTapLockscreenSettings extends DashboardFragment {
 
     @Override
     protected int getPreferenceScreenResId() {
-        return R.xml.doubletap_lockscreen;
+        return R.xml.double_tap_settings;
     }
 
     public static final SearchIndexProvider SEARCH_INDEX_DATA_PROVIDER =
@@ -59,7 +59,7 @@ public class DoubleTapLockscreenSettings extends DashboardFragment {
                 public List<SearchIndexableResource> getXmlResourcesToIndex(
                         Context context, boolean enabled) {
                     final SearchIndexableResource sir = new SearchIndexableResource(context);
-                    sir.xmlResId = R.xml.doubletap_lockscreen;
+                    sir.xmlResId = R.xml.double_tap_settings;
                     return Arrays.asList(sir);
                 }
             };

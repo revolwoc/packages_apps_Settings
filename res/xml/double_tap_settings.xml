@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-  Copyright (C) 2016 The Android Open Source Project
+  Copyright (C) 2018 The Android Open Source Project
 
   Licensed under the Apache License, Version 2.0 (the "License");
   you may not use this file except in compliance with the License.
@@ -30,6 +30,15 @@
         android:key="doze_trigger_doubletap"
         android:defaultValue="false"
         android:title="@string/doze_double_tap_title"
-        android:summary="@string/doze_double_tap_summary" />
+        android:summary="@string/doze_double_tap_summary"
+        app:allowDividerAbove="true" />
+
+    <SwitchPreference
+        android:key="doubletap_lockscreen"
+        android:title="@string/double_tap_lock_screen_title"
+        android:summary="@string/double_tap_lock_screen_summary"
+        app:keywords="@string/keywords_gesture"
+        app:controller="com.android.settings.gestures.DoubleTapLockscreenPreferenceController"
+        app:allowDividerAbove="true" />
 
 </PreferenceScreen>

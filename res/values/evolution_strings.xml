@@ -49,9 +49,6 @@
     <string name="build_maintainer">Build maintainer</string>
     <string name="build_maintainer_summary">Unknown</string>
 
-    <!-- About device screen, device codename -->
-    <string name="device_codename">Device codename</string>
-
     <!-- About device screen, Evolution X -->
     <string name="evolution_x_status">Evolution X status</string>
     <string name="evolution_x_version">Evolution X version</string>

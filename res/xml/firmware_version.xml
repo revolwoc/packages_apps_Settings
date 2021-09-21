@@ -28,15 +28,6 @@
         android:layout="@layout/evolution_logo"
         settings:controller="com.android.settings.deviceinfo.firmwareversion.EvolutionXLogoPreferenceController"/>
 
-    <!-- Device codename -->
-    <Preference
-        android:key="device_codename"
-        android:title="@string/device_codename"
-        android:summary="@string/summary_placeholder"
-        android:fragment="com.android.settings.deviceinfo.hardwareinfo.HardwareInfoFragment"
-        settings:enableCopying="true"
-        settings:controller="com.android.settings.deviceinfo.firmwareversion.DeviceCodenamePreferenceController"/>
-
     <!-- Android version -->
     <Preference
         android:key="os_firmware_version"
@@ -52,7 +43,6 @@
         android:title="@string/evolution_x_version"
         android:summary="@string/summary_placeholder"
         settings:enableCopying="true"
-        settings:searchable="false"
         settings:controller="com.android.settings.deviceinfo.firmwareversion.EvolutionXVersionPreferenceController"/>
 
     <!-- Security patch -->
@@ -68,7 +58,6 @@
         android:title="@string/module_version"
         android:summary="@string/summary_placeholder"
         settings:enableCopying="true"
-        android:selectable="false"
         settings:controller="com.android.settings.deviceinfo.firmwareversion.MainlineModuleVersionPreferenceController"/>
 
     <!-- Baseband -->
@@ -97,14 +86,14 @@
         settings:enableCopying="true"
         settings:controller="com.android.settings.deviceinfo.firmwareversion.EvolutionXBuildDatePreferenceController"/>
 
-    <!-- Build number -->
-    <!--Preference
+    <!-- Build -->
+    <Preference
         android:key="os_build_number"
         android:title="@string/build_number"
         android:summary="@string/summary_placeholder"
         android:selectable="false"
         settings:enableCopying="true"
-        settings:controller="com.android.settings.deviceinfo.firmwareversion.SimpleBuildNumberPreferenceController"/> -->
+        settings:controller="com.android.settings.deviceinfo.firmwareversion.SimpleBuildNumberPreferenceController"/>
 
     <!-- Build maintainer -->
     <Preference

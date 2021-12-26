@@ -92,6 +92,7 @@ android_library {
         "vendor.lineage.fastcharge-V1.0-java",
         "faceunlock_framework",
         "powerusagefeaturegoogle",
+        "gamemode-settingsgoogle",
     ],
 
     libs: [
@@ -170,4 +171,10 @@ filegroup {
 android_library_import {
     name: "glide",
     aars: ["libs/glide-4.9.0.aar"],
+}
+
+java_import {
+    name: "gamemode-settingsgoogle",
+    jars: ["libs/gamemode.jar"],
+    sdk_version: "current",
 }

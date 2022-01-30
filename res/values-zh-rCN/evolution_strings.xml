@@ -39,8 +39,6 @@
     <string name="fp_swipe_to_dismiss_notifications_summary">要清除通知，请在手机背面的指纹传感器上向左或向右滑动</string>
     <!-- About device screen, build date -->
     <string name="build_date">编译日期</string>
-    <!-- About device screen, build maintainer -->
-    <string name="build_maintainer_summary">未知</string>
     <!-- About device screen, device codename -->
     <string name="device_codename">设备代号</string>
     <!-- About device screen, Evolution X -->

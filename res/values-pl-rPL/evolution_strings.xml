@@ -39,8 +39,6 @@
     <string name="fp_swipe_to_dismiss_notifications_summary">W celu usunięcia powiadomień przesuń palcem w lewo lub w prawo po czytniku linii papilarnych.</string>
     <!-- About device screen, build date -->
     <string name="build_date">Data kompilacji</string>
-    <!-- About device screen, build maintainer -->
-    <string name="build_maintainer_summary">Nieznany</string>
     <!-- About device screen, device codename -->
     <string name="device_codename">Nazwa kodowa urządzenia</string>
     <!-- About device screen, Evolution X -->

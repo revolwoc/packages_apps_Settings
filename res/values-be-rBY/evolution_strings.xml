@@ -39,8 +39,6 @@
     <string name="fp_swipe_to_dismiss_notifications_summary">Каб ачысціць вашыя апавяшчэнні, правядзіце пальцам налева або права па сканару адбітка пальца.</string>
     <!-- About device screen, build date -->
     <string name="build_date">Дата зборкі</string>
-    <!-- About device screen, build maintainer -->
-    <string name="build_maintainer_summary">Невядома</string>
     <!-- About device screen, device codename -->
     <string name="device_codename">Назва прылады</string>
     <!-- About device screen, Evolution X -->

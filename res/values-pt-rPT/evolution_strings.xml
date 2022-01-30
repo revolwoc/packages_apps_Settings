@@ -39,8 +39,6 @@
     <string name="fp_swipe_to_dismiss_notifications_summary">Para dispensar as notificações, deslize para a direita ou esquerda no sensor de impressão digital.</string>
     <!-- About device screen, build date -->
     <string name="build_date">Data de compilação</string>
-    <!-- About device screen, build maintainer -->
-    <string name="build_maintainer_summary">Desconhecido</string>
     <!-- About device screen, device codename -->
     <string name="device_codename">Código do dispositivo</string>
     <!-- About device screen, Evolution X -->

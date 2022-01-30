@@ -39,8 +39,6 @@
     <string name="fp_swipe_to_dismiss_notifications_summary">Για να απορρίψετε τις ειδοποιήσεις σας, σύρετε προς τα αριστερά ή προς τα δεξιά στον αισθητήρα δακτυλικών αποτυπωμάτων στο πίσω μέρος του τηλεφώνου σας.</string>
     <!-- About device screen, build date -->
     <string name="build_date">Ημερομηνία έκδοσης</string>
-    <!-- About device screen, build maintainer -->
-    <string name="build_maintainer_summary">Άγνωστος</string>
     <!-- About device screen, device codename -->
     <string name="device_codename">Κωδικό όνομα συσκευής</string>
     <!-- About device screen, Evolution X -->

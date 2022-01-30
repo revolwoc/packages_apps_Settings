@@ -41,7 +41,6 @@
     <string name="build_date">Fecha de compilación</string>
     <!-- About device screen, build maintainer -->
     <string name="build_maintainer">Build mantenida por</string>
-    <string name="build_maintainer_summary">Desconocido</string>
     <!-- About device screen, device codename -->
     <string name="device_codename">Nombre clave del dispositivo</string>
     <!-- About device screen, Evolution X -->

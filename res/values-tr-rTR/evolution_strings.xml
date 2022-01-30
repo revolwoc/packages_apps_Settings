@@ -39,8 +39,6 @@
     <string name="fp_swipe_to_dismiss_notifications_summary">Bildirimlerinizi kapatmak için telefonunuzun arkasındaki parmak izi sensörünü sola veya sağa kaydırın.</string>
     <!-- About device screen, build date -->
     <string name="build_date">Sürüm tarihi</string>
-    <!-- About device screen, build maintainer -->
-    <string name="build_maintainer_summary">Bilinmiyor</string>
     <!-- About device screen, device codename -->
     <string name="device_codename">Cihaz kod adı</string>
     <!-- About device screen, Evolution X -->

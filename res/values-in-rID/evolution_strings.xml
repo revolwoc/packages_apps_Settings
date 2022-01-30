@@ -41,7 +41,6 @@
     <string name="build_date">Tanggal Pembuatan</string>
     <!-- About device screen, build maintainer -->
     <string name="build_maintainer">Pengelola</string>
-    <string name="build_maintainer_summary">Tidak diketahui</string>
     <!-- About device screen, device codename -->
     <string name="device_codename">Nama Kode Perangkat</string>
     <!-- About device screen, Evolution X -->

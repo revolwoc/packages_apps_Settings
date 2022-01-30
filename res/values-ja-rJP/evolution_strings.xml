@@ -39,8 +39,6 @@
     <string name="fp_swipe_to_dismiss_notifications_summary">通知を削除するには端末裏側の指紋センサー上で左右にスワイプして下さい</string>
     <!-- About device screen, build date -->
     <string name="build_date">ビルド日時</string>
-    <!-- About device screen, build maintainer -->
-    <string name="build_maintainer_summary">不明</string>
     <!-- About device screen, device codename -->
     <string name="device_codename">端末のコードネーム</string>
     <!-- About device screen, Evolution X -->

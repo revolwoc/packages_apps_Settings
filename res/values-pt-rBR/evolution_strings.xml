@@ -39,8 +39,6 @@
     <string name="fp_swipe_to_dismiss_notifications_summary">Para descartar suas notificações, deslize para esquerda ou direita sobre o sensor de impressões digitais do seu dispositivo.</string>
     <!-- About device screen, build date -->
     <string name="build_date">Data da compilação</string>
-    <!-- About device screen, build maintainer -->
-    <string name="build_maintainer_summary">Desconhecido</string>
     <!-- About device screen, device codename -->
     <string name="device_codename">Nome do dispositivo</string>
     <!-- About device screen, Evolution X -->

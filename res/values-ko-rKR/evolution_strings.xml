@@ -39,8 +39,6 @@
     <string name="fp_swipe_to_dismiss_notifications_summary">알림을 지우려면 기기 후면의 지문 센서를 왼쪽 또는 오른쪽으로 스와이프하세요</string>
     <!-- About device screen, build date -->
     <string name="build_date">빌드 날짜</string>
-    <!-- About device screen, build maintainer -->
-    <string name="build_maintainer_summary">알 수 없음</string>
     <!-- About device screen, device codename -->
     <string name="device_codename">기기 코드명</string>
     <!-- About device screen, Evolution X -->

@@ -39,8 +39,6 @@
     <string name="fp_swipe_to_dismiss_notifications_summary">Да бисте одбацили обавештења, превуците налево или надесно на сензору отиска прста на задњој страни телефона.</string>
     <!-- About device screen, build date -->
     <string name="build_date">Датум израде</string>
-    <!-- About device screen, build maintainer -->
-    <string name="build_maintainer_summary">Непознато</string>
     <!-- About device screen, device codename -->
     <string name="device_codename">Кодно име уређаја</string>
     <!-- About device screen, Evolution X -->

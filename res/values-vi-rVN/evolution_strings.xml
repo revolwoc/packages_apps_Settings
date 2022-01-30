@@ -39,8 +39,6 @@
     <string name="fp_swipe_to_dismiss_notifications_summary">Để loại bỏ thông báo của bạn, hãy vuốt sang trái hoặc phải trên bộ cảm biến dấu vân tay ở mặt sau của điện thoại.</string>
     <!-- About device screen, build date -->
     <string name="build_date">Ngày dựng</string>
-    <!-- About device screen, build maintainer -->
-    <string name="build_maintainer_summary">Build_maintainer_summary</string>
     <!-- About device screen, device codename -->
     <string name="device_codename">Tên thiết bị</string>
     <!-- About device screen, Evolution X -->

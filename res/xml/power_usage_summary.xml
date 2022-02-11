@@ -70,6 +70,12 @@
         android:summary="@string/fast_charging_summary"
         settings:controller="com.android.settings.fuelgauge.FastChargingPreferenceController"/>
 
+    <SwitchPreference
+        android:key="power_usage_provider_google"
+        android:title="@string/powerusage_provider_google"
+	android:summary="@string/power_usage_provider_summary"
+        settings:controller="com.android.settings.fuelgauge.GooglePowerUsageProviderPreferenceController" />
+
     <com.evolution.settings.preference.SystemSettingSwitchPreference
         android:key="arcane_idle_manager"
         android:title="@string/idle_manager_title"
